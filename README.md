@@ -1,8 +1,22 @@
-# React + Vite
+# CounterApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app that allows users to increment, decrement, and reset a counter. Built with React and Vite.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Increment**: Increase the counter by 1.
+- **Decrement**: Decrease the counter by 1.
+- **Reset**: Reset the counter to 0.
+
+## Technologies Used
+
+- React
+- Vite
+- gh-pages (for deployment)
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/counterApp.git
