@@ -19,4 +19,4 @@ A simple React app that allows users to increment, decrement, and reset a counte
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/counterApp.git
+   git clone https://github.com/aasmaa01/CounterApp.git
